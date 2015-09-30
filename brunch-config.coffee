@@ -11,20 +11,7 @@ exports.config =
         'js/vendor.js': /^(vendor|bower_components(?![\\/]jquery[\\/]dist[\\/]jquery.js))/
     stylesheets:
       joinTo:
-        'css/app.css':[
-           /^(app[\\/]scss[\\/]styles(?!-rtl))/
-           /bower_components[\\/](?!bootstrap-rtl[\\/]dist[\\/]css[\\/]bootstrap-rtl.css)/
-        ]
-        'css/app-rtl.css': [
-          /^(app[\\/]scss[\\/]styles-rtl)/
-          /(bower_components[\\/]bootstrap-rtl[\\/]dist[\\/]css[\\/]bootstrap-rtl.css)/
-        ]
-        'css/editor.css':[
-           /^(app[\\/]scss[\\/]editor(?!-rtl))/
-        ]
-        'css/editor-rtl.css': [
-          /^(app[\\/]scss[\\/]editor-rtl)/
-        ]
+        'css/app.css': /^(app[\\/]scss|vendor)/
 
   modules:
     wrapper: false

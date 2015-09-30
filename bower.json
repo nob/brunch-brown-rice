@@ -2,7 +2,7 @@
   "name": "Your porject name",
   "version": "0.0.0",
   "authors": [
-    "Hyyan Abo Fakher <Tiribthea4hyyan@gmail.com>"
+    "N.Yanbe <yanbe.n@jointanet.com>"
   ],
   "license": "Your project license",
   "private": "true",
@@ -15,8 +15,7 @@
   ],
   "dependencies": {
     "jquery": "1.11.1",
-    "bootstrap-sass-official": "x",
-    "bootstrap-rtl": "x"
+    "bootstrap-sass-official": "latest"
   },
   "overrides": {
     "bootstrap-rtl": {
