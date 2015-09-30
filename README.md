@@ -1,4 +1,4 @@
-# Brunch With Bower , Bootstrap Sass And jQuery
+# Brunch With Bower , Bootstrap-sass And jQuery
 
 [![project status](http://stillmaintained.com/hyyan/brunch-with-hyyan.png)](http://stillmaintained.com/hyyan/brunch-with-hyyan)
 [![dependency Status](https://david-dm.org/hyyan/brunch-with-hyyan/status.svg)](https://david-dm.org/hyyan/brunch-with-hyyan#info=dependencies)
