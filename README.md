@@ -18,15 +18,9 @@ HTML5 application, built with [Brunch](http://brunch.io), Bootstrap Sass And jQu
 * Learn:
     * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
     * Place static files you want to be copied from `app/assets/` to `public/`.
-    * Place styles in `app/scss/styles` to be compiled to `public/css/app.css`
-    * Place styles in `app/scss/styles-rtl` to be compiled to `public/css/app-rtl.css`
-    * Place styles in `app/scss/editor` to be compiled to `public/css/editor.css`
-    * Place styles in `app/scss/editor-rtl` to be compiled to `public/css/editor-rtl.css`
+    * Place styles in `app/scss/` to be compiled to `public/css/app.css`
     * Place javascripts in `app/scripts` to be concatenated to `public/js/app.js`
     * [Brunch site](http://brunch.io)
     * [Sass site](http://sass-lang.com)
     * [Bootstrap site](http://getbootstrap.com)
-   
-## How To User With Wordpress
-You can use the [Brunch Wordpress Theme](https://github.com/hyyan/brunch-wordpress-theme) starter theme , which make use of all features of this skeleton in wordpress context.
 
