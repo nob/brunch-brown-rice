@@ -39,4 +39,6 @@ exports.config =
     sass:
       debug: 'comments' # or set to 'debug' for the FireSass-style output
       mode: 'ruby' # set to 'native' to force libsass
+      options:
+        includePaths: ['bower_components/bootstrap-sass-official/assets/stylesheets']
       allowCache: true
