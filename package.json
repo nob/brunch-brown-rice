@@ -1,8 +1,9 @@
 {
-  "author": "Your Name",
-  "name": "package-name",
-  "description": "Package description",
-  "version": "0.0.0",
+  "author": "N. Yanbe",
+  "name": "branch-brown-rice",
+  "description": "HTML5 + Bootstrap Sass + jQuery application skelton, built with Brunch(a build tool)",
+  "private": true,
+  "version": "0.0.1",
   "homepage": "",
   "repository": {
     "type": "git",
@@ -20,7 +21,7 @@
     "css-brunch": "latest",
     "javascript-brunch": "latest",
     "sass-brunch": "latest",
-    "static-site-brunch": "latest",
+    "static-site-brunch-with-hbs-helpers": "github:nob/static-site-brunch-with-hbs-helpers",
     "uglify-js-brunch": "latest"
   },
   "devDependencies": {}
