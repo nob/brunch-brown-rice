@@ -1,5 +1,6 @@
 exports.config =
   # See http://brunch.io/#documentation for docs.
+  # espacially https://github.com/brunch/brunch/blob/master/docs/config.md
   paths:
     public: 'public'
 
