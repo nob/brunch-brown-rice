@@ -1,6 +1,6 @@
 # Brunch with Bower , Bootstrap(Sass) and jQuery
 
-HTML5 application, built with [Brunch](http://brunch.io), Bootstrap Sass And jQuery
+HTML5 + Bootstrap Sass + jQuery application skelton, built with [Brunch](http://brunch.io)
 
 ## Getting started
 * Install (if you don't have them):
@@ -20,4 +20,3 @@ HTML5 application, built with [Brunch](http://brunch.io), Bootstrap Sass And jQu
     * [Brunch site](http://brunch.io)
     * [Sass site](http://sass-lang.com)
     * [Bootstrap site](http://getbootstrap.com)
-
